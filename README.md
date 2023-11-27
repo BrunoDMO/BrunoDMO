@@ -7,7 +7,7 @@ Olá, sou Bruno Domingues de Oliveira, um entusiasta da engenharia de automaçã
 ### Habilidades Técnicas
 
 - **Linguagens de Programação:**
-  - Java (em destaque)
+  - Java
   - JavaScript (JS)
   - C#
   - Python
@@ -15,7 +15,6 @@ Olá, sou Bruno Domingues de Oliveira, um entusiasta da engenharia de automaçã
 - **Web Technologies:**
   - HTML
   - CSS
-  - Desenvolvimento Full-Stack
 
 ### Projetos Destacados
 
