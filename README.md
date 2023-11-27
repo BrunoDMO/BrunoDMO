@@ -33,9 +33,10 @@ Olá, sou Bruno Domingues de Oliveira, um entusiasta da engenharia de automaçã
 Meu objetivo principal é aprimorar minhas habilidades como Full-Stack Developer, aplicando as melhores práticas no desenvolvimento de software.
 
 ### Como Entrar em Contato
-
-- 📧 **E-mail:** [brunonaw41@gmail.com](brunonaw41@gmail.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/bruno-de-oliveira-99b685226/](https://www.linkedin.com/in/bruno-de-oliveira-99b685226/)
+<div>
+<a href = "mailto:brunonaw41@gmail.com](brunonaw41@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruno-de-oliveira-99b685226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ### Agradecimentos
 
