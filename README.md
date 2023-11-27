@@ -7,14 +7,18 @@ Olá, sou Bruno Domingues de Oliveira, um entusiasta da engenharia de automaçã
 ### Habilidades Técnicas
 
 - **Linguagens de Programação:**
-  - Java
-  - JavaScript (JS)
-  - C#
-  - Python
+  
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/>
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+          
 
 - **Web Technologies:**
-  - HTML
-  - CSS
+  -
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />
+          
 
 ### Projetos Destacados
 
