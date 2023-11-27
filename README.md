@@ -31,8 +31,8 @@ Meu objetivo principal é aprimorar minhas habilidades como Full-Stack Developer
 
 ### Como Entrar em Contato
 
-- 📧 **E-mail:** [seuemail@gmail.com](mailto:brunonaw41@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/brunodomingues]([https://www.linkedin.com/in/brunodomingues/](https://www.linkedin.com/in/bruno-de-oliveira-99b685226/))
+- 📧 **E-mail:** [brunonaw41@gmail.com](brunonaw41@gmail.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/bruno-de-oliveira-99b685226/](https://www.linkedin.com/in/bruno-de-oliveira-99b685226/)
 
 ### Agradecimentos
 
