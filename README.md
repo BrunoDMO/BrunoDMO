@@ -40,7 +40,7 @@ Meu objetivo principal é aprimorar minhas habilidades como Full-Stack Developer
 
 ### Agradecimentos
 
-Obrigado por conferir meu perfil! Estou animado para conectar-me com outros desenvolvedores e contribuir para projetos interessantes. Vamos codificar juntos! 🚀
+Obrigado por conferir meu perfil! Estou animado para conectar-me com outros desenvolvedores e contribuir para projetos interessantes. Vamos codar juntos! 🚀
 
 ### Github Stats
 <div>
