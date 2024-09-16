@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá, sou Bruno Domingues de Oliveira, um entusiasta da engenharia de automação atualmente buscando me destacar como Full-Stack Developer. Estou no processo de conclusão do curso de Engenharia de Automação, e minha jornada no desenvolvimento de software tem se concentrado principalmente em Java, mas também abrange uma variedade de outras linguagens e tecnologias.
+Olá, sou Bruno Domingues de Oliveira, um entusiasta da engenharia de automação atualmente buscando me destacar como Full-Stack Developer.  Formado em Engenharia de Controle e Automação. Minha jornada no desenvolvimento de software tem se concentrado principalmente em Java e python, mas possuo conhecimento em uma variedade de outras linguagens e tecnologias.
 
 ### Habilidades Técnicas
 
